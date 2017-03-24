@@ -1,0 +1,21 @@
+{
+  "name": "webpack_babel",
+  "version": "1.0.0",
+  "description": "This is a simple tutorial project to walk someone through the creation of a Webpack + Babel project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Webpack",
+    "Babel"
+  ],
+  "author": "Galastun",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.2.2",
+    "webpack": "^2.3.1"
+  }
+}
